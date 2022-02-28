@@ -1,0 +1,38 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "firstname": "Abdul Bari",
+      "lastname": "Mughloo",
+      "email": "bari.ab06@gmail.com",
+      "mobile": "9596449866",
+      "salary": "56,000"
+    }
+  ],
+  "signupUsers": [
+    {
+      "fullname": "Abdul Bari",
+      "email": "bari.ab06@gmail.com",
+      "password": "12345678",
+      "mobile": "9596449866",
+      "id": 1
+    },
+    {
+      "fullname": "Ab Bari",
+      "email": "bari@test.com",
+      "password": "12345",
+      "mobile": "7888787877",
+      "id": 2
+    },
+    {
+      "fullname": "test",
+      "email": "test@gmail.com",
+      "password": "12345",
+      "mobile": "9999999",
+      "id": 3
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
